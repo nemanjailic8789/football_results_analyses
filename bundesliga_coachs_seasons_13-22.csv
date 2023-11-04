@@ -1,0 +1,93 @@
+team_id,team_name,coach_name,start_dates,end_dates
+157,Bayern Munich,T. Tuchel,2023-03-01,
+157,Bayern Munich,J. Nagelsmann,2021-07-01,2023-03-01
+157,Bayern München,J. Heynckes,2017-10-06,2018-06-30
+157,Bayern München,J. Heynckes,2011-07-01,2013-06-25
+157,Bayern München,J. Heynckes,2009-04-28,2009-06-30
+157,Bayern München,J. Heynckes,1987-07-01,1991-10-28
+157,Bayern München,A. Straus,2022-07-01,
+158,Fortuna Düsseldorf,D. Thioune,2022-02-01,
+160,Freiburg,C. Streich,2011-12-01,
+160,Freiburg,T. Merk,2022-07-01,
+161,Wolfsburg,N. Kovač,2022-07-01,
+161,Wolfsburg,F. Kohfeldt,2021-10-01,2022-06-01
+161,Wolfsburg,T. Stroot,2021-07-01,
+162,Werder Bremen,O. Werner,2021-11-01,
+162,Werder Bremen,A. Kluge,2019-07-01,2021-04-01
+162,Werder Bremen,T. Horsch,2021-04-01,
+162,Werder Bremen,T. Schaaf,2021-05-01,2021-06-01
+162,Werder Bremen,T. Schaaf,1999-05-01,2013-05-01
+163,Borussia M'gladbach,D. Farke,2022-07-01,
+163,Borussia M'gladbach,A. Hütter,2021-07-01,2022-06-01
+165,Borussia Dortmund,E. Terzić,2022-07-01,
+165,Borussia Dortmund,E. Terzić,2020-12-01,2021-06-01
+166,Hannover 96,M. Slomka,2019-07-01,2019-11-01
+166,Hannover 96,M. Slomka,2010-01-01,2013-12-01
+166,Hannover 96,M. Slomka,2001-07-01,2004-06-01
+166,Hannover 96,S. Leitl,2022-07-01,
+166,Hannover 96,K. Kocak,2019-11-01,2021-06-01
+167,Hoffenheim,S. Lerch,2023-03-01,
+167,Hoffenheim,A. Breitenreiter,2022-07-01,2023-02-01
+167,Hoffenheim,P. Matarazzo,2023-02-01,
+167,Hoffenheim,G. Gallai,2020-07-01,2022-12-01
+167,Hoffenheim,N. Rolser,2023-01-01,
+168,Bayer Leverkusen,A. Feifel,2019-07-01,2022-06-01
+168,Bayer Leverkusen,G. Seoane,2021-07-01,2022-10-01
+168,Bayer Leverkusen,Xabi Alonso,2022-10-01,
+168,Bayer Leverkusen,R. de Pauw,2022-07-01,
+169,Eintracht Frankfurt,N. Arnautis,2020-07-01,
+169,Eintracht Frankfurt,O. Glasner,2021-07-01,
+170,Augsburg,M. Schmidt,2019-04-09,
+170,Augsburg,H. Herrlich,2020-03-01,2021-04-01
+170,Augsburg,E. Maaßen,2022-07-01,
+171,Nürnberg,D. Hecking,2023-02-01,
+171,Nürnberg,D. Hecking,2009-12-01,2012-12-01
+171,Nürnberg,M. Weinzierl,2022-10-01,2023-02-01
+171,Nürnberg,J. Keller,2019-11-01,2020-06-01
+171,Nürnberg,R. Klauß,2020-07-01,2022-10-01
+171,Nürnberg,M. Wiesinger,2020-06-01,2020-07-01
+171,Nürnberg,M. Wiesinger,2013-01-01,2013-10-01
+171,Nürnberg,A.Theiss,2022-07-01,2022-07-01
+171,Nürnberg,O. Cankaya,2019-07-01,
+172,Stuttgart,S. Hoeneb,2023-04-01,
+172,Stuttgart,B. Labbadia,2022-12-01,2023-04-01
+172,Stuttgart,B. Labbadia,2010-12-01,2013-08-01
+173,RB Leipzig,A. Beierlorzer,2021-12-01,2021-12-01
+173,RB Leipzig,A. Beierlorzer,2015-02-01,2015-06-01
+173,RB Leipzig,M. Rose,2022-09-01,
+173,RB Leipzig,S. Uzun,2022-06-01,
+174,Schalke 04,D. Grammozis,2021-03-01,2022-03-01
+174,Schalke 04,T. Reis,2022-10-01,
+174,Schalke 04,M. Baum,2020-09-01,2020-12-01
+174,Schalke 04,H. Stevens,2020-12-01,2020-12-01
+174,Schalke 04,H. Stevens,2019-03-01,2019-06-01
+174,Schalke 04,H. Stevens,2011-09-01,2012-12-01
+174,Schalke 04,H. Stevens,1996-10-01,2002-06-01
+174,Schalke 04,C. Gross,2020-12-01,2021-02-01
+174,Schalke 04,F. Kramer,2022-07-01,2022-10-01
+176,Bochum,T. Letsch,2022-09-01,
+176,Bochum,H. Butscher,2022-09-01,2022-09-01
+176,Bochum,H. Butscher,2018-02-01,2018-02-01
+176,Bochum,K. Malinowski,2022-07-01,
+178,Greuther Fürth,M. Schneider,2022-07-01,2022-10-01
+178,Greuther Fürth,A. Zorniger,2022-10-01,
+178,Greuther Fürth,M. Dickhaut,2017-08-28,
+180,Heidenheim,F. Schmidt,2007-09-01,
+182,Union Berlin,U. Fischer,2018-07-01,
+182,Union Berlin,A. Hofschneider,2017-12-04,2018-06-30
+182,Union Berlin,A. Hofschneider,2016-02-23,2016-06-30
+184,Ingolstadt,A. Schubert,2021-09-01,2021-12-01
+184,Ingolstadt,R. Rehm,2021-12-01,2023-01-01
+184,Ingolstadt,M. Köllner,2023-04-01,
+184,Ingolstadt,G. Capretti,2023-02-01,2023-04-01
+184,Ingolstadt,M. Catovic,2022-07-01,
+185,Paderborn,L. Kwasniok,2021-07-01,
+188,Arminia Bielefeld,U. Koschinat,2023-03-01,
+188,Arminia Bielefeld,U. Neuhaus,2018-12-01,2021-03-01
+188,Arminia Bielefeld,U. Forte,2022-07-01,2022-08-01
+188,Arminia Bielefeld,D. Scherning,2022-08-01,
+188,Arminia Bielefeld,M. Kostmann,2022-04-01,2022-06-01
+191,Holstein Kiel,M. Rapp,2021-10-01,
+192,Köln,S. Glass,2019-12-01,
+192,Köln,A. Pawlak,2019-04-29,
+744,Eintracht Braunschweig,M. Schiele,2021-06-01,
